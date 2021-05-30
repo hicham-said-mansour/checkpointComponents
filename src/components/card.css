@@ -1,4 +1,14 @@
 .Card {
   border: 1px solid black;
   margin: 150px 150px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.Card,
+.ProfilePhoto {
+  display: flex;
+  /* flex-direction: row; */
+  align-items: center;
 }

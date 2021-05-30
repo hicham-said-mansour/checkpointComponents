@@ -12,7 +12,8 @@ function Card() {
       <FullName></FullName>
       <Adresse></Adresse>
     </div>
-  )
+      )
 }
+
 
 export default Card;
